@@ -4,7 +4,7 @@
 **Já podes usar a app online aqui:** 
 > https://smartvelas-planner-isabela1201.streamlit.app/
 
-Como possível finalista, basicamente quis complicar a minha vida e fazer um 'planner' interativo e inteligente para a escolha do número de velas que comprar para a Benção das pastas.
+Como possível finalista, basicamente quis (des)complicar a minha vida e fazer um 'planner' interativo e inteligente para a escolha do número de velas que comprar para a Benção das pastas.
 
 ## O que é o SmartVelas?
 O **SmartVelas-Planner** é uma ferramenta de suporte à decisão que utiliza algoritmos de agrupamento (*clustering*) para sugerir a distribuição ideal de pessoas por velas através da morada e da afiliação. 
