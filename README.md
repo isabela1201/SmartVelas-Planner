@@ -1,7 +1,7 @@
 # SmartVelas-Planner
 **Organizador Inteligente e Interativo para a Bênção das Pastas**
 
-> **Já podes usar a app online aqui:** [🔗 velastack-ua.streamlit.app](https://URL_DA_TUA_APP.streamlit.app)
+> **Já podes usar a app online aqui:** )
 Como possível finalista, basicamente quis complicar a minha vida e fazer um 'planner' interativo e inteligente para a escolha do número de velas que comprar para a Benção das pastas.
 
 ## O que é o SmartVelas?
