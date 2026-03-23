@@ -23,13 +23,9 @@ O sistema não 'olha' apenas para a proximidade das moradas (via Geocoding), mas
 A interface foi desenhada com um tema minimalista que respeita o **Dark Mode** e utiliza a paleta de cores aesthetic da **Universidade de Aveiro**.
 
 ## 📦 Como instalar e usar
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/isabela1201/SmartVelas-Planner.git](https://github.com/isabela1201/SmartVelas-Planner.git)
-
+1. Clone o repositório
 2. Instale as dependências:
 pip install -r requirements.txt
-
 3. Corre a aplicação:
 streamlit run app.py
 
